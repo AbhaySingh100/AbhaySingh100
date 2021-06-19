@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abhay Singh
+- 👋 Hi, I’m Abhay 
 - 👀 I like to code for android applications.
 - 🌱 I’m currently studying in NIT Srinagar.
 - 💞️ I’m looking to collaborate for a android project.
